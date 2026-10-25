@@ -1,0 +1,500 @@
+#176 	Destek 	
+-
+	
+Abone Rolü Almama Rağmen Erişim Yok
+	OPEN 	2026-10-24 22:58:28.965 	
+#175 	Destek 	
+-
+	
+ücretsiz paketiniz varmı acaba genpvp için
+	OPEN 	2026-10-24 22:36:18.400 	
+#174 	Destek 	
+-
+	
+Teknik Destek: ssss
+	OPEN 	2026-10-24 21:04:03.125 	
+#173 	Destek 	
+-
+	
+Sipariş: GenPvP
+	OPEN 	2026-10-24 11:47:44.915 	
+#172 	Destek 	
+-
+	
+Sipariş: genpvp
+	OPEN 	2026-10-24 07:24:00.178 	
+#171 	Destek 	
+-
+	
+Sipariş: abi knk skyblock paketiini alıcam ücretsiz var ya itemsadderli ama rolum verildi yok kaynak paketler
+	RESOLVED 	2026-10-23 20:02:33.156 	
+#170 	Destek 	
+-
+	
+Site Kayıt
+	RESOLVED 	2026-10-23 18:43:29.641 	
+#169 	Destek 	
+-
+	
+Rise
+	RESOLVED 	2026-10-23 16:00:25.797 	
+#168 	Destek 	
+-
+	
+Teknik Destek: SkyBlock
+	OPEN 	2026-10-23 15:43:29.423 	
+#167 	Destek 	
+-
+	
+Hosting Başvurumuzun Reddedilme Nedeni
+	OPEN 	2026-10-21 20:46:58.920 	
+#166 	Destek 	
+-
+	
+Merhabalar Sunucunuzda Abone Rolü Alamadım,
+	RESOLVED 	2026-10-21 18:35:00.952 	
+#165 	Destek 	
+-
+	
+Fiyat bilgisi
+	OPEN 	2026-10-21 14:25:47.221 	
+#164 	Destek 	
+-
+	
+abone oldum
+	OPEN 	2026-10-21 14:07:15.844 	
+#163 	Destek 	
+-
+	
+Site abonelik
+	RESOLVED 	2026-10-20 19:19:44.244 	
+#162 	Destek 	
+-
+	
+abone
+	RESOLVED 	2026-10-20 17:52:34.996 	
+#161 	Destek 	
+-
+	
+bireysel
+	RESOLVED 	2026-10-20 17:25:56.930 	
+#160 	Destek 	
+-
+	
+Partner
+	RESOLVED 	2026-10-20 16:34:16.182 	
+#159 	Destek 	
+-
+	
+konuscaz
+	RESOLVED 	2026-10-20 14:56:13.212 	
+#158 	Destek 	
+-
+	
+Lisans: Lobi
+	RESOLVED 	2026-10-19 19:15:08.332 	
+#157 	Destek 	
+-
+	
+Sipariş: OP SKYBLOCK PAKETİ
+	OPEN 	2026-10-19 16:18:12.054 	
+#156 	Destek 	
+-
+	
+Sipariş: SkyBlock 19-1.21
+	ASSIGNED 	2026-10-19 09:59:21.579 	
+#155 	Destek 	
+-
+	
+Lisans: Lobi
+	RESOLVED 	2026-10-19 02:01:21.557 	
+#154 	Destek 	
+-
+	
+Skyblock test sunucusu
+	OPEN 	2026-10-18 19:18:35.624 	
+#153 	Destek 	
+-
+	
+Özel paket
+	RESOLVED 	2026-10-18 18:55:24.772 	
+#152 	Destek 	
+-
+	
+Abone Rol
+	RESOLVED 	2026-10-18 18:47:41.768 	
+#151 	Destek 	
+-
+	
+Soru
+	RESOLVED 	2026-10-18 18:46:14.636 	
+#150 	Destek 	
+-
+	
+Teknik Destek: boxpvp son atılan
+	RESOLVED 	2026-10-18 16:00:40.632 	
+#149 	Destek 	
+-
+	
+soru
+	RESOLVED 	2026-10-18 15:57:47.021 	
+#148 	Destek 	
+-
+	
+Tester
+	RESOLVED 	2026-10-18 15:27:46.582 	
+#147 	Destek 	
+-
+	
+Teknik Destek: Rise SkyBloxk
+	RESOLVED 	2026-10-18 14:24:56.426 	
+#146 	Destek 	
+-
+	
+Jsksjsjsjsldj
+	RESOLVED 	2026-10-18 14:07:23.762 	
+#145 	Destek 	
+-
+	
+Özel sunucu yapımı varmı
+	RESOLVED 	2026-10-18 07:42:07.891 	
+#144 	Destek 	
+-
+	
+Sipariş: boxmining / skyblock fiyat bilgi
+	RESOLVED 	2026-10-18 00:19:50.853 	
+#143 	Destek 	
+-
+	
+Hosting hakda
+	RESOLVED 	2026-10-17 16:45:15.820 	
+#142 	Destek 	
+-
+	
+Teknik Destek: Destek
+	RESOLVED 	2026-10-17 14:26:43.540 	
+#141 	Destek 	
+-
+	
+Teknik Destek: https://discord.gg/YePT2hZWV
+	RESOLVED 	2026-10-17 12:12:43.839 	
+#140 	Destek 	
+-
+	
+Ücretsiz skyblock
+	RESOLVED 	2026-10-16 22:37:45.873 	
+#139 	Destek 	
+-
+	
+Sipariş: Lobi
+	RESOLVED 	2026-10-16 20:04:01.542 	
+#138 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-16 18:07:42.842 	
+#137 	Destek 	
+-
+	
+Teknik Destek Talebi
+	RESOLVED 	2026-10-16 17:09:51.992 	
+#136 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-15 17:39:29.574 	
+#135 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-15 15:10:23.117 	
+#134 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-15 11:39:00.994 	
+#133 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-14 23:37:33.349 	
+#132 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-14 21:27:45.723 	
+#131 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-14 19:11:12.444 	
+#130 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-14 18:41:53.010 	
+#129 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-14 14:24:36.341 	
+#128 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-14 14:14:58.028 	
+#127 	Destek 	
+-
+	
+Teknik Destek Talebi
+	RESOLVED 	2026-10-13 14:27:43.644 	
+#126 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-12 23:00:53.293 	
+#125 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-12 20:44:12.235 	
+#124 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-12 19:36:51.594 	
+#123 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-12 18:38:36.109 	
+#122 	Destek 	
+-
+	
+Lisans İşlemleri Talebi
+	RESOLVED 	2026-10-12 14:56:04.172 	
+#121 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-11 22:07:28.718 	
+#120 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-11 18:34:06.110 	
+#119 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-11 18:27:47.472 	
+#118 	Destek 	
+-
+	
+Teknik Destek Talebi
+	RESOLVED 	2026-10-11 17:49:06.595 	
+#117 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-11 14:33:37.601 	
+#116 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-11 11:17:34.156 	
+#115 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-10 20:24:10.472 	
+#114 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-10 10:00:52.107 	
+#113 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-10 09:03:00.262 	
+#112 	Destek 	
+-
+	
+Teknik Destek Talebi
+	RESOLVED 	2026-10-09 17:42:49.059 	
+#111 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-08 19:01:54.504 	
+#110 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-08 12:11:38.972 	
+#109 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-07 22:57:34.417 	
+#108 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-07 22:26:19.045 	
+#107 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-07 19:59:31.310 	
+#106 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-07 09:15:58.059 	
+#105 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-06 13:31:45.515 	
+#104 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-06 09:35:33.506 	
+#103 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-05 14:06:43.137 	
+#102 	Destek 	
+-
+	
+Teknik Destek Talebi
+	RESOLVED 	2026-10-05 09:04:19.493 	
+#101 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-04 17:56:02.865 	
+#100 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-04 16:49:58.325 	
+#99 	Destek 	
+-
+	
+Lisans İşlemleri Talebi
+	RESOLVED 	2026-10-04 15:01:13.047 	
+#98 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-04 02:57:32.463 	
+#97 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-03 23:07:44.413 	
+#96 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-03 22:21:15.552 	
+#95 	Destek 	
+-
+	
+Lisans İşlemleri Talebi
+	RESOLVED 	2026-10-03 17:33:53.366 	
+#94 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-03 17:25:03.075 	
+#93 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-03 16:33:54.975 	
+#92 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-10-03 08:07:50.318 	
+#91 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-02 21:13:36.847 	
+#90 	Destek 	
+-
+	
+Lisans İşlemleri Talebi
+	RESOLVED 	2026-10-01 20:30:05.001 	
+#89 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-10-01 14:56:41.325 	
+#88 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-09-30 18:46:51.593 	
+#87 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-09-30 17:14:46.071 	
+#86 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-09-30 14:58:35.032 	
+#85 	Destek 	
+-
+	
+Teknik Destek Talebi
+	RESOLVED 	2026-09-29 22:51:59.855 	
+#84 	Destek 	
+-
+	
+Teknik Destek Talebi
+	RESOLVED 	2026-09-29 18:31:51.447 	
+#83 	Destek 	
+-
+	
+Teknik Destek Talebi
+	RESOLVED 	2026-09-29 18:31:51.446 	
+#82 	Destek 	
+-
+	
+Genel & Diğer Talebi
+	RESOLVED 	2026-09-29 10:02:48.983 	
+#81 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-09-28 11:56:44.073 	
+#80 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-09-28 09:59:56.706 	
+#79 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-09-28 09:43:22.516 	
+#78 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-09-28 09:36:55.268 	
+#77 	Destek 	
+-
+	
+Satın Alım & Sipariş Talebi
+	RESOLVED 	2026-09-28 02:12:24.410

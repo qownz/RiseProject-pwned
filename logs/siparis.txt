@@ -1,0 +1,21 @@
+#RP-CRD-D4C71F21 	
+Yusuf Kaan Akpolat garibantr
+	200.00 ₺ 	Shopier 	pending 	pending 	2026-10-24 23:05:40.000 	
+#RP-CRD-BA0DCE58 	
+Anıl Özbek -
+	1000.00 ₺ 	Shopier 	pending 	pending 	2026-10-24 16:44:57.000 	
+#RP-CRD-E84FD080 	
+Altuğ Tosun .hermestrr
+	100.00 ₺ 	Shopier 	pending 	pending 	2026-10-18 21:51:31.000 	
+#RP-CRD-99109A79 	
+Altuğ Tosun .hermestrr
+	100.00 ₺ 	Shopier 	completed 	completed 	2026-10-18 21:04:33.000 	Onaylandı
+#RP-CRD-CD6CDE5A 	
+Altuğ Tosun .hermestrr
+	100.00 ₺ 	Shopier 	pending 	pending 	2026-10-18 20:54:01.000 	
+#RP-CRD-F0B00AB5 	
+Altuğ Tosun .hermestrr
+	100.00 ₺ 	Banka & Kredi Kartı 	pending 	pending 	2026-10-18 20:30:09.000 	
+#RP-CRD-A18DF76A 	
+Altuğ Tosun .hermestrr
+	50.00 ₺ 	Banka & Kredi Kartı 	pending 	pending 	2026-10-18 19:31:34.000 	

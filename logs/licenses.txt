@@ -1,0 +1,290 @@
+
+RISE-GENPVP-GMT5-VCD3-9TGV
+	
+RiseProject - GenPvP Plugin Paketi genpvp
+	
+Anıl Özbek 617782608364961800
+	🌐 185.83.152.204 	Aktif 	
+31.01.2027 14:32
+Son Bağlantı: 25.10.2026 13:35
+	
+RISE-ONEBLO-TJDM-CSKX-DY6G
+	
+RiseProject - OneBlock Plugin Paketi oneblock
+	
+Hermes 683785461709144200
+	🌐 77.90.53.194 	Aktif 	
+01.01.2028 00:00
+Son Bağlantı: 25.10.2026 01:39
+	
+RISE-SKYBLO-6FMA-ZN2D-6QJV
+	
+RiseProject - SkyBlock Plugin Paketi skyblock
+	
+lokmantavuk 959146362895757300
+	🌐 162.55.104.121 	Aktif 	
+25.01.2027 12:20
+Son Bağlantı: 18.10.2026 15:28
+	
+RISE-SKYBLO-AZ93-YDXB-W5D8
+	
+RiseProject - SkyBlock Plugin Paketi skyblock
+	
+Hermes 683785461709144200
+	🌐 77.90.53.194 	Aktif 	
+25.01.2027 12:13
+Son Bağlantı: Hiç bağlanmadı
+	
+RISE-SKYBLO-ZJVQ-SJYK-KMX2
+	
+RiseProject - SkyBlock Plugin Paketi skyblock
+	
+Hermes 683785461709144200
+	🌐 77.90.53.194 	Aktif 	
+25.01.2027 12:13
+Son Bağlantı: 25.10.2026 13:35
+	
+RISE-LOBI-U3ZF-RPD7-YKLV
+	
+RiseProject - Lobi Plugin Paketi lobi
+	
+Sercan Korkmaz 1113009192672964600
+	🌐 212.180.120.235 	Aktif 	
+14.01.2027 20:25
+Son Bağlantı: 25.10.2026 13:55
+	
+RISE-LOBI-NKBT-JUU3-AT7E
+	
+RiseProject - Lobi Plugin Paketi lobi
+	
+Hermes 683785461709144200
+	🌐 77.90.53.194 	Aktif 	
+15.11.2026 20:16
+Son Bağlantı: 17.10.2026 02:47
+	
+RISE-GENPVP-TH8G-N6LT-GMK3
+	
+RiseProject - GenPvP Plugin Paketi genpvp
+	
+reynixan 508210897190256700
+	🌐 0.0.0.0 	Aktif 	
+19.01.2027 21:11
+Son Bağlantı: 13.10.2026 00:12
+	
+RISE-GENPVP-N5H2-TY9X-NU9U
+	
+RiseProject - GenPvP Plugin Paketi genpvp
+	
+Efe 1217568449094619100
+	🌐 38.210.77.249 	Aktif 	
+19.01.2027 21:08
+Son Bağlantı: 14.10.2026 22:35
+	
+RP-BPLV-R7HZ-U3JY
+	
+RiseProject - GenPvP Plugin Paketi genpvp
+	
+Hermes 683785461709144200
+	🌐 77.90.53.194 	Aktif 	
+Süresiz (Ömür Boyu)
+Son Bağlantı: 15.10.2026 15:40
+	
+RISE-BOXPVP-A6XF-3LKG-XHAB
+	
+RiseProject - BoxPvP Plugin Paketi boxpvp
+	
+Hermes 683785461709144200
+	🌐 77.90.53.194 	Aktif 	
+11.01.2027 10:36
+Son Bağlantı: 25.10.2026 13:22
+	
+RISE-BOXPVP-32ER-83VJ-NQ7Y
+	
+RiseProject - BoxPvP Plugin Paketi boxpvp
+	
+Hermes 683785461709144200
+	🌐 77.90.53.194 	Aktif 	
+11.01.2027 10:36
+Son Bağlantı: Hiç bağlanmadı
+	
+RISE-BOXPVP-3NUC-QMZU-87AC
+	
+RiseProject - BoxPvP Plugin Paketi boxpvp
+	
+Rise Sales 1349383919966879700
+	🌐 77.90.53.194 	Aktif 	
+11.01.2027 10:35
+Son Bağlantı: Hiç bağlanmadı
+	
+RISE-BOXPVP-CAS4-JW22-CYQ9
+	
+RiseProject - BoxPvP Plugin Paketi boxpvp
+	
+Rise Sales 1349383919966879700
+	🌐 77.90.53.194 	Aktif 	
+11.01.2027 10:35
+Son Bağlantı: Hiç bağlanmadı
+	
+RISE-BOXPVP-8YHG-DB3X-CJFX
+	
+RiseProject - BoxPvP Plugin Paketi boxpvp
+	
+Rise Sales 1349383919966879700
+	🌐 77.90.53.194 	Aktif 	
+11.01.2027 10:35
+Son Bağlantı: Hiç bağlanmadı
+	
+RISE-BOXPVP-6QA3-7X6X-MGP4
+	
+RiseProject - BoxPvP Plugin Paketi boxpvp
+	
+Rise Sales 1349383919966879700
+	🌐 77.90.53.194 	Aktif 	
+11.01.2027 10:35
+Son Bağlantı: Hiç bağlanmadı
+	
+RISE-BOXPVP-SCMW-GKFG-DMDK
+	
+RiseProject - BoxPvP Plugin Paketi boxpvp
+	
+Rise Sales 1349383919966879700
+	🌐 77.90.53.194 	Aktif 	
+11.01.2027 10:34
+Son Bağlantı: Hiç bağlanmadı
+	
+RISE-LOBI-JMAT-YJV9-AWAG
+	
+RiseProject - Lobi Plugin Paketi lobi
+	
+dakookauzay 1352763226483593200
+	🌐 141.98.50.65 	Aktif 	
+10.01.2027 17:40
+Son Bağlantı: 10.10.2026 18:44
+	
+RISE-BOXPVP-6F5P-2HKC-THHW
+	
+RiseProject - BoxPvP Plugin Paketi boxpvp
+	
+dakookauzay 1352763226483593200
+	🌐 141.98.50.65 	Aktif 	
+10.01.2027 17:39
+Son Bağlantı: 23.10.2026 01:00
+	
+RISE-BOXPVP-W4D9-PJYN-FW72
+	
+RiseProject - BoxPvP Plugin Paketi boxpvp
+	
+ardasplace 847160899533930500
+	🌐 153.56.168.172 	Aktif 	
+09.01.2027 21:25
+Son Bağlantı: 05.10.2026 17:47
+	
+RISE-LOBI-9QV8-75RN-Q83X
+	
+RiseProject - Lobi Plugin Paketi lobi
+	
+ardasplace 847160899533930500
+	🌐 153.56.168.172 	Aktif 	
+Süresiz (Ömür Boyu)
+Son Bağlantı: 16.10.2026 08:48
+	
+RISE-GENPVP-XWDK-ZRLR-BCZ5
+	
+RiseProject - GenPvP Plugin Paketi genpvp
+	
+ardasplace 847160899533930500
+	🌐 153.56.168.172 	Aktif 	
+09.01.2027 20:42
+Son Bağlantı: 04.10.2026 18:57
+	
+RP-WGDJ-UMBR-4PSE
+	
+RiseProject - GenPvP Plugin Paketi genpvp
+	
+furki 1468535687501451500
+	🌐 77.90.53.194 	Aktif 	
+08.01.2027 20:31
+Son Bağlantı: 01.10.2026 22:09
+	
+RP-WAC7-ZLRY-RKXV
+	
+RiseProject - BoxPvP Plugin Paketi boxpvp
+	
+syrex.rxz 1238511891660144600
+	🌐 151.250.17.64 	Aktif 	
+07.01.2027 13:10
+Son Bağlantı: 18.10.2026 23:16
+	
+RP-9JL4-ECMS-DY6G
+	
+RiseProject - OneBlock Plugin Paketi oneblock
+	
+Hermes 683785461709144200
+	🌐 77.90.53.194 	Aktif 	
+03.01.2027 20:21
+Son Bağlantı: 27.09.2026 19:03
+	
+RP-L9U6-R6S3-AD35
+	
+RiseProject - OneBlock Plugin Paketi oneblock
+	
+Hermes 683785461709144200
+	🌐 77.90.53.194 	Aktif 	
+03.01.2027 20:21
+Son Bağlantı: 02.10.2026 23:05
+	
+RP-M934-2MZW-3ECV
+	
+RiseProject - Lobi Plugin Paketi lobi
+	
+dakookauzay 1352763226483593200
+	🌐 141.98.50.65 	Aktif 	
+29.12.2026 19:35
+Son Bağlantı: 04.10.2026 20:18
+	
+RP-3UKG-Q5HA-KDGZ
+	
+RiseProject - Lobi Plugin Paketi lobi
+	
+ardasplace 713110940949676000
+	🌐 153.56.168.172 	Aktif 	
+29.12.2026 18:52
+Son Bağlantı: 02.10.2026 23:39
+	
+RP-ZXPW-2AHJ-VXMJ
+	
+RiseProject - GenPvP Plugin Paketi genpvp
+	
+ardasplace 713110940949676000
+	🌐 153.56.168.172 	Aktif 	
+26.12.2026 23:26
+Son Bağlantı: 26.09.2026 16:51
+	
+RP-QQ23-R3N2-D798
+	
+RiseProject - BoxPvP Plugin Paketi boxpvp
+	
+ardasplace 713110940949676000
+	🌐 153.56.168.172 	Aktif 	
+26.12.2026 23:25
+Son Bağlantı: 29.09.2026 17:00
+	
+RP-SZCQ-J326-MGTS
+	
+RiseProject - BoxPvP Plugin Paketi boxpvp
+	
+dakookauzay 1352763226483593200
+	🌐 141.98.50.65 	Aktif 	
+24.12.2026 18:13
+Son Bağlantı: 04.10.2026 20:18
+	
+RP-A9WD-2Z25-HWWE
+	
+RiseProject - GenPvP Plugin Paketi genpvp
+	
+goıqwtea 1370792954058375400
+	🌐 185.158.151.67 	Aktif 	
+20.12.2026 17:36
+Son Bağlantı: 19.09.2026 20:19
+	
+
