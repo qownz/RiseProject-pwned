@@ -4,6 +4,9 @@
 
 ![xd](xd.png)
 
+- **admin key: riseproject2026**
+- **PHPSESSID:"sut01j8jo8ivn3i7i5qnu56boh"**
+
 ## Paketler
 
 password: qownz
