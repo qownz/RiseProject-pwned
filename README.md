@@ -9,7 +9,7 @@
 
 ## Paketler
 
-password: qownz
+# password: qownz
 
 - OneBlock: -
 - SkyBlock: [RiseProject-SkyBlock-v1.0.0.zip](https://dosya.co/fuk6eoinfgb1/RiseProject-SkyBlock-v1.0.0.zip.html)
